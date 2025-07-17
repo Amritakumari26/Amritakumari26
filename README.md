@@ -42,7 +42,7 @@ My personal portfolio website built with HTML & CSS.
 
 ### 📫 Connect with Me
 
-- 📧 Email: *amritakumariak981@gmailcom*
+- 📧 Email: *amritakumariak981@gmail.com*
 - 💼 LinkedIn: *https://www.linkedin.com/in/amrita-kumari-097057367*
 
 
