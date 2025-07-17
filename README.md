@@ -4,6 +4,7 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Passionate+Web+Developer;Creating+Responsive+Websites;Learning+Every+Day" alt="Typing SVG" />
 </p>
+
 ### 🌟 About Me
 
 🌱  💻 I’m a **Frontend Web Developer** passionate about building beautiful, user-friendly websites.**  
